@@ -6289,10 +6289,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-uiv@^1.3.1:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/uiv/-/uiv-1.4.0.tgz#286fa50b66ff6cda7ae7aa7e516c4f909db420cc"
-  integrity sha512-qFcRYFAqETZYNhxSkKd+MdnWmhtz1H9j2nhayoI/TyLATm6vg1RC8jHA0i+yOjQtsbht7Gmn9fpUqJrQr5Pscg==
+uiv@^1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/uiv/-/uiv-1.4.2.tgz#707def020e786f4187fa2bab663535f5fc4ff1c8"
+  integrity sha512-+3Q7n58Yau6w8/eZjp3Pukc4VCbTZmopQb1V9VE2ki5GLwL8jlTdBwtWgT90xhapBcbja4twS2lmaf9tpjVbuA==
   dependencies:
     portal-vue "^2.1.7"
     vue-functional-data-merge "^3.0.0"
