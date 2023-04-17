@@ -114,7 +114,7 @@
     "filp/whoops": "2.*",
     "fakerphp/faker": "1.*",
     "mockery/mockery": "1.*",
-    "phpunit/phpunit": "^9.5"
+    "phpunit/phpunit": "^9.6"
   },
   "suggest": {
     "directorytree/ldaprecord-laravel": "If you want to login using LDAP.",
